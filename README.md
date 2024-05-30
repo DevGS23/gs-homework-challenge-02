@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
@@ -104,3 +105,7 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# gs-homework-challenge-02
+Homework for Week 2
+>>>>>>> 0819f78c5065d4dffccf2137f51fec42b971dd97
